@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767933880284",
+    "project_id": "luna-group-fae54",
+    "storage_bucket": "luna-group-fae54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767933880284:android:2b99beb122f1c799c56119",
+        "android_client_info": {
+          "package_name": "com.facesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767933880284-2kv6iclf0eh57d5505li8t39vjg2c6ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBevCjO2A8sKXHVI0q8BsMA6oXC3DsrKBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767933880284-2kv6iclf0eh57d5505li8t39vjg2c6ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
